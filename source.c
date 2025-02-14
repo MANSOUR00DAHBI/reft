@@ -20,7 +20,7 @@ int main() {
 	     	printf(" %d ", i);
      	}
 	    else {
-		  //printf(" not return Mod %d \n", rectongle);
+		printf(" not return Mod %d \n", rectongle);
 	    }
 	  }
 
